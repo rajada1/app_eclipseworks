@@ -11,4 +11,4 @@ Essa escolha é intencional. Meu objetivo não é apenas demonstrar que domino a
 
 ## Getting Started
 
-Por questão de segurança configure a apikey no arquivo dev.env caso tenha problemas. A chave atual é apenas para teste, (um outra chave foi enviada junto com o link do repositório)
+Para evitar a exposição da chave de API, foi configurada a chave DEMO_KEY, que funciona muito bem para demonstrações simples. No entanto, caso encontrem problemas ao utilizá-la, configurem a apikey no arquivo dev.env. Uma chave exclusiva foi enviada junto com o link do repositório para essa finalidade.
